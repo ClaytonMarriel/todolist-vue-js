@@ -1,19 +1,14 @@
-# todolist
+## Primeiro Projeto com VueJS
 
-## Project setup
-```
-yarn install
-```
+# TodoList 
+# BootstrapVue
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+# Instalação do CLI do VUE
+npm i -g @vue/cli
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Processos do desenvolvimento do TodoList
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Tenho uma Single-Page com duas rotas
+1- Form
+2- Tarefas
+
