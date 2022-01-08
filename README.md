@@ -6,7 +6,7 @@
     <a href="https://vuejs.org/">VueJS</a>
 </h1>
 
-https://user-images.githubusercontent.com/50889610/148650412-7862fc4d-4e25-4547-8757-ba2e8a95d607.mp4
+
 
 Estrutura de Pastas <br>
 ========================
